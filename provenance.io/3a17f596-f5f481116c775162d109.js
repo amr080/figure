@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkprovenance_blockchain_foundation=self.webpackChunkprovenance_blockchain_foundation||[]).push([[264],{3300:function(n,a,t){t.d(a,{_F4:function(){return c}});var e=t(3368);function c(n){return(0,e.YH)({tag:"svg",attr:{fill:"currentColor",viewBox:"0 0 16 16"},child:[{tag:"path",attr:{fillRule:"evenodd",d:"M1.553 6.776a.5.5 0 0 1 .67-.223L8 9.44l5.776-2.888a.5.5 0 1 1 .448.894l-6 3a.5.5 0 0 1-.448 0l-6-3a.5.5 0 0 1-.223-.67z"},child:[]}]})(n)}}}]);
+//# sourceMappingURL=3a17f596-f5f481116c775162d109.js.map
